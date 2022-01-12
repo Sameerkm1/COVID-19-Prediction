@@ -1,5 +1,5 @@
 # COVID-19-Prediction
-COVID-19 prediction based on symptoms using machine learning.
+Project Name: COVID-19 prediction based on symptoms using machine learning.
 Data collection: For this study, dataset was collected from an open source platform Kaggle.com (https://www.kaggle.com/hemanthhari/symptoms-and-covid-presence/code).
 Data analysis: Statistical Analysis, EDA, and Identify Missing Value.
 Data preprocessing: Handing Missing Values, Correlation Analysis and Feature Transformation.
